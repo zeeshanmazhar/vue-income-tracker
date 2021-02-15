@@ -1,4 +1,4 @@
-# income-tracker
+# An Income Tracker in VueJs
 
 ## Project setup
 ```
